@@ -12,7 +12,7 @@
 const str = '1337';
 const num = 42;
 const bool = false;
-const undef;
+const undef = undefined;
 
 //* Begin of tests
 const assert = require('assert');
